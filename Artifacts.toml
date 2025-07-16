@@ -1,0 +1,9 @@
+[[Rusticl]]
+arch = "x86_64"
+git-tree-sha1 = "19b2b64e97d2193a80acad46349e025e94202e61"
+libc = "glibc"
+os = "linux"
+
+    [[Rusticl.download]]
+    sha256 = "76786d21002e2069b0cc56219cec4d14afc1652a1f72d83f3daa1a5a0fd5293a"
+    url = "https://github.com/maleadt/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+0/Rusticl.v25.2.0.x86_64-linux-gnu.tar.gz"
