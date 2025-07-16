@@ -9,10 +9,10 @@ os = "linux"
     url = "https://github.com/maleadt/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+0/Rusticl.v25.2.0.x86_64-linux-gnu.tar.gz"
 [[Rusticl]]
 arch = "aarch64"
-git-tree-sha1 = "0c458b7bd7ae7b4ce4810d6270e975d9ece55e3f"
+git-tree-sha1 = "79c587ca3d2daa5974ca467288b8896c506fefc8"
 libc = "glibc"
 os = "linux"
 
     [[Rusticl.download]]
-    sha256 = "090a4b8804bc7351a718361df5cb508bba7246c662be6e56a0599f6345280160"
+    sha256 = "f5b4ebf92ccfdcdd08932f634a7ee8bcb70408ba41dc1397e3558fd6de444ddf"
     url = "https://github.com/maleadt/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+1/Rusticl.v25.2.0.aarch64-linux-gnu.tar.gz"

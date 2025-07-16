@@ -11,7 +11,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 The tarballs for `Rusticl_jll.jl` have been built from these sources:
 
 * files in directory, relative to originating `build_tarballs.jl`: `./bundled`
-* git repository: https://gitlab.freedesktop.org/mesa/mesa (revision: `f78222dc29cdfc84135ef107e11de9b0bdd81ac5`)
+* git repository: https://gitlab.freedesktop.org/mesa/mesa (revision: `bac51d2931199a1e9048c7acdae155865732ad01`)
 
 ## Platforms
 
